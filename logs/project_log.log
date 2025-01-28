@@ -1,0 +1,13 @@
+2025-01-28 14:27:13.988 | INFO     | __main__:<module>:41 - Logging to file: logs/project_log.log
+2025-01-28 14:27:13.988 | INFO     | __main__:main:63 - STARTING utils_logger.py
+2025-01-28 14:27:13.988 | INFO     | __main__:log_example:54 - This is an example info message.
+2025-01-28 14:27:13.988 | WARNING  | __main__:log_example:55 - This is an example warning message.
+2025-01-28 14:27:13.988 | ERROR    | __main__:log_example:56 - This is an example error message.
+2025-01-28 14:27:13.988 | INFO     | __main__:main:68 - View the log output at logs/project_log.log
+2025-01-28 14:27:13.988 | INFO     | __main__:main:69 - EXITING utils_logger.py.
+2025-01-28 14:27:26.813 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-28 14:27:26.813 | INFO     | __main__:main:93 - Starting CSV fetch demonstration...
+2025-01-28 14:27:26.814 | INFO     | __main__:fetch_csv_file:52 - Fetching CSV data from https://raw.githubusercontent.com/MainakRepositor/Datasets/master/World%20Happiness%20Data/2020.csv...
+2025-01-28 14:27:27.227 | INFO     | __main__:write_csv_file:76 - Writing CSV data to example_data/2020_happiness.csv...
+2025-01-28 14:27:27.230 | INFO     | __main__:write_csv_file:80 - SUCCESS: CSV data written to example_data/2020_happiness.csv
+2025-01-28 14:27:27.230 | INFO     | __main__:fetch_csv_file:56 - SUCCESS: CSV file fetched and saved as 2020_happiness.csv
