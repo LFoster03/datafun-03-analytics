@@ -15,3 +15,4 @@
     git commit -m "Add .gitignore and requirements.txt files"
     git push -u origin main
     git push
+# Used data.gov to find the csv file: Electric Vehicle Population Data which shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL).
