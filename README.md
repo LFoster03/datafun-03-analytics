@@ -16,3 +16,7 @@
     git push -u origin main
     git push
 # Used data.gov to find the csv file: Electric Vehicle Population Data which shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL).
+# git add commit push
+# Used data.gov to find the excel file: Annual Electricity Price by State which shows the annual data on the average price of retail electricity to consumers.
+# git add commit push
+# Used data.gov to find the JSON file: 
