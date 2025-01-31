@@ -22,3 +22,6 @@
 # Used data.gov to find the JSON file: Mental Health Care in the Last 4 Weeks which shows the answers to a survey that gauged the impact of the pandemic on employment status, consumer spending, food security, housing, education disruptions, and dimensions of physical and mental wellness.
 # git add commit push
 # Used Project Gutenberg to find the txt file of William Wordsworth's poems. 
+# git add commit push
+
+# Had to try multiple ways of getting my files. It kept saying it couldn't find my csv file so I had to download a new csv file and put my csv file into my datafun-03-analytics folder and then open in vs code.

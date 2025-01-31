@@ -43,3 +43,111 @@
 2025-01-30 10:50:36.427 | INFO     | __main__:write_txt_file:76 - Writing data to example_data/pg8905.txt...
 2025-01-30 10:50:36.431 | INFO     | __main__:write_txt_file:80 - SUCCESS: Data written to example_data/pg8905.txt
 2025-01-30 10:50:36.432 | INFO     | __main__:fetch_txt_file:56 - SUCCESS: Text file fetched and saved as pg8905.txt
+2025-01-30 13:41:41.622 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 13:41:50.354 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 13:57:28.150 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:01:41.359 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:02:30.260 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:03:30.276 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:08:40.451 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:09:22.851 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:09:57.362 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:11:32.415 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:12:03.783 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:12:10.946 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:12:51.399 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:12:51.399 | INFO     | __main__:<module>:82 - Starting CSV processing...
+2025-01-30 14:12:51.399 | ERROR    | __main__:analyze_ladder_score:57 - Error processing CSV file: [Errno 20] Not a directory: 'example_data/ev_population_data.csv/2020_happiness.csv'
+2025-01-30 14:13:38.778 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:18:37.561 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:18:37.562 | INFO     | __main__:main:82 - Starting analysis of Electric Vehicle Population Data...
+2025-01-30 14:18:37.562 | INFO     | __main__:load_data:36 - Loading data from example_data/ev_population_data.csv...
+2025-01-30 14:18:37.563 | ERROR    | __main__:load_data:41 - Error loading data: Error tokenizing data. C error: Expected 1 fields in line 5, saw 8
+
+2025-01-30 14:18:37.565 | ERROR    | __main__:analyze_top_5_car_makes:56 - The dataset is empty.
+2025-01-30 14:24:14.730 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:24:14.730 | INFO     | __main__:main:82 - Starting analysis of Electric Vehicle Population Data...
+2025-01-30 14:24:14.731 | INFO     | __main__:load_data:36 - Loading data from ev_population_data.csv...
+2025-01-30 14:24:14.731 | ERROR    | __main__:load_data:41 - Error loading data: [Errno 2] No such file or directory: 'ev_population_data.csv'
+2025-01-30 14:24:14.732 | ERROR    | __main__:analyze_top_5_car_makes:56 - The dataset is empty.
+2025-01-30 14:24:24.364 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:24:24.364 | INFO     | __main__:main:82 - Starting analysis of Electric Vehicle Population Data...
+2025-01-30 14:24:24.364 | INFO     | __main__:load_data:36 - Loading data from ev_population_data.csv...
+2025-01-30 14:24:24.364 | ERROR    | __main__:load_data:41 - Error loading data: [Errno 2] No such file or directory: 'ev_population_data.csv'
+2025-01-30 14:24:24.365 | ERROR    | __main__:analyze_top_5_car_makes:56 - The dataset is empty.
+2025-01-30 14:24:39.321 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:24:39.321 | INFO     | __main__:main:82 - Starting analysis of Electric Vehicle Population Data...
+2025-01-30 14:24:39.321 | INFO     | __main__:load_data:36 - Loading data from ev_population_data.csv...
+2025-01-30 14:24:39.322 | ERROR    | __main__:load_data:41 - Error loading data: [Errno 2] No such file or directory: 'ev_population_data.csv'
+2025-01-30 14:24:39.323 | ERROR    | __main__:analyze_top_5_car_makes:56 - The dataset is empty.
+2025-01-30 14:25:11.853 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:27:58.739 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:29:20.100 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:29:49.768 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:30:18.567 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:30:26.729 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:30:35.717 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:30:36.804 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:30:37.725 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:30:38.573 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:31:26.698 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:31:34.693 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:31:50.501 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:32:51.737 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:35:06.171 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:35:27.976 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:35:58.540 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:41:55.886 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:41:59.043 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:42:27.240 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:43:10.237 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:45:52.051 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:45:58.783 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:46:08.743 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:46:58.210 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-30 14:47:48.689 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 09:33:44.932 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 09:33:44.932 | INFO     | __main__:<module>:78 - Starting CSV processing...
+2025-01-31 09:33:44.933 | INFO     | __main__:process_csv_file:71 - Processed CSV file: example_data/2020_happiness.csv, Statistics saved to: example_processed/happiness_ladder_score_stats.txt
+2025-01-31 09:33:44.933 | INFO     | __main__:<module>:80 - CSV processing complete.
+2025-01-31 09:38:51.982 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 09:39:37.964 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 09:40:04.017 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 09:40:28.558 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 09:41:07.427 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 09:41:28.702 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 09:59:56.872 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 09:59:56.873 | INFO     | __main__:main:63 - Starting CSV fetch demonstration...
+2025-01-31 09:59:56.873 | INFO     | __main__:fetch_csv_file:23 - Fetching CSV data from https://www.fdic.gov/bank-failures/failed-bank-list...
+2025-01-31 09:59:57.153 | INFO     | __main__:write_csv_file:48 - Writing CSV data to example_data/download-data.csv...
+2025-01-31 09:59:57.154 | INFO     | __main__:write_csv_file:52 - SUCCESS: CSV data written to example_data/download-data.csv
+2025-01-31 09:59:57.154 | INFO     | __main__:fetch_csv_file:30 - SUCCESS: CSV file fetched and saved as download-data.csv
+2025-01-31 10:12:38.883 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:13:29.765 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:18:36.946 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:18:54.968 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:20:42.883 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:21:45.400 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:25:09.176 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:25:23.450 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:25:32.610 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:25:39.002 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:25:52.163 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:26:09.573 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:26:59.216 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:44:15.539 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:44:15.539 | INFO     | __main__:main:63 - Starting CSV fetch demonstration...
+2025-01-31 10:44:15.539 | INFO     | __main__:fetch_csv_file:23 - Fetching CSV data from https://www.kaggle.com/datasets/anandshaw2001/netflix-movies-and-tv-shows...
+2025-01-31 10:44:15.767 | INFO     | __main__:write_csv_file:48 - Writing CSV data to example_data/netflix-titles.csv...
+2025-01-31 10:44:15.768 | INFO     | __main__:write_csv_file:52 - SUCCESS: CSV data written to example_data/netflix-titles.csv
+2025-01-31 10:44:15.768 | INFO     | __main__:fetch_csv_file:30 - SUCCESS: CSV file fetched and saved as netflix-titles.csv
+2025-01-31 10:48:24.801 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:48:53.314 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:49:08.175 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:51:13.430 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:52:31.252 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 10:52:58.410 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 12:02:01.380 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 12:05:04.981 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 12:09:13.173 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-01-31 12:11:35.417 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
