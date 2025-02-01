@@ -1,7 +1,6 @@
 from pathlib import Path
 import pandas as pd
 
-# Optional: Uncomment if you're using a logger
 # from utils_logger import logger
 # Import from local project modules
 from utils_logger import logger

@@ -99,5 +99,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-# TODO: Run this as a script to test that all functions work as intended.

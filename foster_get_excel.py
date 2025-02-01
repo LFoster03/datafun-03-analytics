@@ -1,6 +1,28 @@
+"""
+This example file fetches an Excel file from the web 
+and saves it to a local file named feedback.xlsx in a folder named example_data.
+
+Please save a copy of the provided utils_logger.py file 
+in the same folder as this file.
+"""
+
+#####################################
+# Import Modules at the Top
+#####################################
+
+# Import from Python Standard Library
 import pathlib
+
+# Import from external packages
 import requests
+
+# Import from local project modules
 from utils_logger import logger
+
+#####################################
+# Declare Global Variables
+#####################################
+
 fetched_folder_name = "example_data"
 
 #####################################
@@ -67,9 +89,9 @@ def main():
     """
     Main function to demonstrate fetching Excel data.
     """
-    excel_url = 'https://catalog.data.gov/dataset/annual-electricity-price-by-state'
+    excel_url = 'https://raw.githubusercontent.com/denisecase/datafun-03-analytics/main/hosted/Feedback.xlsx'
     logger.info("Starting Excel fetch demonstration...")
-    fetch_excel_file(fetched_folder_name, "avgprice_annual.xlsx", excel_url)
+    fetch_excel_file(fetched_folder_name, "feedback.xlsx", excel_url)
 
 #####################################
 # Conditional Execution
